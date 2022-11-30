@@ -1,0 +1,9 @@
+# .gitignore  커밋 대상이 아닌 것을 기록하는것
+#pdf 파일 업로드 안함
+*.pdf
+
+# python ipynb 파일(코랩, 주피터)
+*.ipynb 
+
+# 폴더 무시
+/test
